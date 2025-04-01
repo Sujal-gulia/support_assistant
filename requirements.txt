@@ -8,3 +8,9 @@ transformers
 accelerate
 optimum
 autogptq
+sentencepiece
+protobuf
+pygments
+mdurl
+rich
+safetensors
